@@ -50,8 +50,8 @@ Minha frente principal é automação com IA: agentes de atendimento e pré-vend
 <img src="assets/sec-atividade.svg" width="100%" alt="05 · Atividade">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amor-im/Amor-im/output/snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/Amor-im/Amor-im/output/snake-light.svg" width="100%" alt="Gráfico de contribuições">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amor-im/Amor-im/output/cobra-dark.svg">
+  <img src="https://raw.githubusercontent.com/Amor-im/Amor-im/output/cobra-light.svg" width="100%" alt="Gráfico de contribuições">
 </picture>
 
 <div align="center">
